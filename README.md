@@ -38,7 +38,7 @@ Issues にあるいろいろな修正にご協力いただけると嬉しいで�
 - [Git](https://git-scm.com/)
 
 #### 環境構築
-1. このRepoを [forkします](https://github.com/a01sa01to/covid19-ibaraki/fork)。
+1. オリジナルからRepoを [forkします](https://github.com/a01sa01to/covid19-ibaraki/fork)。
 
 2. ForkしたRepoをCloneします。<br>
    `git clone https://github.com/{yourname}/covid19-ibaraki.git`
